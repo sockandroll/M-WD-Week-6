@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+
+#contact {font-size: 20px;}
+
+body{
+  background: linear-gradient(lavender, paleturquoise, honeydew)
+}
+
+h1 {
+  color: mediumpurple;
+  font-size: 45px;
+  }
+h3 {font-family: 'Handlee', cursive;
+  color: mediumseagreen;
+font-size: 24px;}
+h4 {font-family: 'Handlee', cursive;
+  color: darkcyan;
+font-size: 18px;}
+p {font-family: 'Neucha', cursive;
+  color: midnightblue;
+  font-size: 18px;
+}
+
+.background {
+  width: 96vw;
+  height: 100vh;
+  display: inline-block;
+  border: 4px dashed powderblue;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Handlee', cursive;
+  background-image: url('../Coded Résumé - Atom Edition/Socks Whitmore Headshot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.layer{
+  width: 60vw;
+  height: 20vh;
+  display: inline-block;
+  background-color: azure;
+  opacity: 0.6;
+  size: cover;
+  position: left;
+}
+
+.frame1 {display: inline-block;
+  border: 4px dashed lightblue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 96vw;}
+
+.frame2 {display: inline-block;
+  border: 4px dashed skyblue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 96vw;}
+
+.frame3 {display: inline-block;
+  border: 4px dashed lightskyblue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 96vw;}
+
+.frame4 {display: inline-block;
+  border: 4px dashed deepskyblue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 96vw;}
+
+.frame5 {display: inline-block;
+  border: 4px dashed dodgerblue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 96vw;}
